@@ -28,7 +28,7 @@ This analysis is focused on identifying various customer segments, understanding
 
 Approach Used
 
-1. Data Wrangling
+1.Data Wrangling
 
 During this initial phase, the data is examined to detect any NULL or missing values, and strategies for data replacement are implemented to address and substitute these values effectively.
 
